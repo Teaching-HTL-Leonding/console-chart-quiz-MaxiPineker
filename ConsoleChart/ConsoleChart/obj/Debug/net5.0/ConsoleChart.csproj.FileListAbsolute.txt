@@ -1,0 +1,16 @@
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\obj\Debug\net5.0\ConsoleChart.csprojAssemblyReference.cache
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\obj\Debug\net5.0\ConsoleChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\obj\Debug\net5.0\ConsoleChart.AssemblyInfoInputs.cache
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\obj\Debug\net5.0\ConsoleChart.AssemblyInfo.cs
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\obj\Debug\net5.0\ConsoleChart.csproj.CoreCompileInputs.cache
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\bin\Debug\net5.0\ConsoleChart.exe
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\bin\Debug\net5.0\ConsoleChart.deps.json
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\bin\Debug\net5.0\ConsoleChart.runtimeconfig.json
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\bin\Debug\net5.0\ConsoleChart.runtimeconfig.dev.json
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\bin\Debug\net5.0\ConsoleChart.dll
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\bin\Debug\net5.0\ref\ConsoleChart.dll
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\bin\Debug\net5.0\ConsoleChart.pdb
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\obj\Debug\net5.0\ConsoleChart.dll
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\obj\Debug\net5.0\ref\ConsoleChart.dll
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\obj\Debug\net5.0\ConsoleChart.pdb
+C:\Users\maxip\Documents\Schule\4 Klasse\Prog\C#\console-chart-quiz-MaxiPineker\ConsoleChart\ConsoleChart\obj\Debug\net5.0\ConsoleChart.genruntimeconfig.cache
