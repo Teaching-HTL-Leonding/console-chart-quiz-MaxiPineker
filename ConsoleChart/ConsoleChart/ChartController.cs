@@ -35,7 +35,7 @@ namespace ConsoleChart
             foreach (Item line in result)
             {
                 if (count >= _length) return;
-                Console.Write($"{line.Text,-70}|\t");
+                Console.Write($"{line.Text,-50}|\t");
                 PrintBars(line.Value);
                 Console.WriteLine();
                 count++;
@@ -49,7 +49,7 @@ namespace ConsoleChart
                     entry => new Item(
                         entry.Key,
                         entry.Sum(e => e.Value)
-                    )).ToList().OrderByDescending(r => r.Value).ToList();
+                    )).OrderByDescending(r => r.Value).ToList();
             ;
             return result;
         }
@@ -61,7 +61,8 @@ namespace ConsoleChart
         public void PrintBars(int value)
         {
             Console.BackgroundColor = ConsoleColor.Red;
-            Console.WriteLine(new string(' ', CalculatePercentage(value)));
+            Console.Write(new string(' ', CalculatePercentage(value)));
+            Console.ResetColor();
         }
     }
 }

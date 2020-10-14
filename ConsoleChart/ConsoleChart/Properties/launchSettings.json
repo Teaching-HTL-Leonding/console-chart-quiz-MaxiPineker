@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleChart": {
+      "commandName": "Project",
+      "commandLineArgs": "country attacks <data.txt"
+    }
+  }
+}

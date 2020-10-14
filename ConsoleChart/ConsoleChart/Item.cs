@@ -13,8 +13,8 @@ namespace ConsoleChart
 
         public Item(string text, int value)
         {
-            _text = text;
-            _value = value;
+            Text = text;
+            Value = value;
         }
         public string Text
         {
